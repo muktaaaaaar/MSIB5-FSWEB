@@ -1,5 +1,5 @@
 Rincian materi FS Web - MSIB 5
-!. Web Design (HTML,CSS,JS)
+!. Design Grafis
 2. UIUX
 3. GIT/GITHUB
 4. MySQL
