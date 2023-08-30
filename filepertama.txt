@@ -6,3 +6,5 @@ Rincian materi FS Web - MSIB 5
 5. PHP
 6. Laravel
 7. API
+8. SoftSkill
+9. Reakt
