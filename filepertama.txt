@@ -2,3 +2,9 @@ Rincian materi FS Web - MSIB 5
 !. Design Grafis
 2. UIUX
 3. GIT/GITHUB
+4. MySQL
+5. Framework CI
+6. Laravel
+7. API
+8. SoftSkill
+9. Reakt
